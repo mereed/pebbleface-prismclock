@@ -1,0 +1,106 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mreed",
+    "longName": "PrismClock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/prism-menu.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "fonts/SKA_cubic01_75_CE 2.TTF",
+                "name": "FONT_PIXEL_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/SKA_cubic01_75_CE 2.TTF",
+                "name": "FONT_PIXEL_20",
+                "type": "font"
+            },
+            {
+                "file": "images/battery_partial.png",
+                "name": "IMAGE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/battery_empty.png",
+                "name": "IMAGE_0",
+                "type": "png"
+            },
+            {
+                "file": "images/battery (3).png",
+                "name": "IMAGE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/Prisms.png",
+                "name": "IMAGE_BG",
+                "type": "png"
+            },
+            {
+                "file": "images/ms9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/ms8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/ms7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/ms6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/ms5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/ms4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/ms3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/ms2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/ms0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/ms1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Prismclock",
+    "uuid": "0f2d309a-cbd1-4d7e-873f-543bb7bbcc0f",
+    "versionCode": 1,
+    "versionLabel": "1.0.3",
+    "watchapp": {
+        "watchface": true
+    }
+}
